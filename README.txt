@@ -42,8 +42,8 @@ El objetivo es entender que factores hacen un carro más o menos caro. Como resu
 ## Entendimiento de los datos
 Usando la matriz de correlación se identificaron los atributos que tienen mas relación con el Precio tales como: Año, Odómetro, Tipo de Transmisión, así como algunas graficas como histogramas, graficas de dispersión y BoxPlot par visualizar el comportamiento de los atributos respecto al precio.
 
-## Potential Uses
-- **Price Prediction**: Build models to predict vehicle prices based on features such as year, make, model, and condition.
-- **Market Analysis**: Analyze trends in vehicle listings by region, price, manufacturer, and more.
-- **Data Visualization**: Create visual representations of vehicle distribution, price ranges, and other key attributes.
+## Usos de este caso
+- **Predicción de precio**
+- **Identificacion de caracteristicas**
+- **Visualización y entendimiento de datos**
 
